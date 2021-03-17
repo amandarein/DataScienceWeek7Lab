@@ -1,0 +1,11 @@
+---
+title: "PracticeGit.Rmd"
+output: html_document
+author: Amanda Rein
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### I'm Learning to Use Github...Boom
